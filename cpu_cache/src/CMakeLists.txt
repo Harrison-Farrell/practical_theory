@@ -1,0 +1,7 @@
+include(Benchmarking)
+
+AddBenchmarks(benchmark_linear_search)
+AddBenchmarks(benchmark_binary_search)
+AddBenchmarks(benchmark_set_search)
+AddBenchmarks(benchmark_unordered_search)
+AddBenchmarks(benchmark_random_memory_access)
