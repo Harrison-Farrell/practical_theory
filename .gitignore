@@ -1,2 +1,13 @@
 build/
 *.csv
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.lol
+*.lot
+*.out
+*.xml
+*.gz
+*.pdf
